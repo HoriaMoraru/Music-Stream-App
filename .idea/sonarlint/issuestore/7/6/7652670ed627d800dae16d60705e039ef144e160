@@ -1,0 +1,22 @@
+
+j
+java:S1450"TRemove the "panel" field and declare it as a local variable in the relevant methods.(›Γ¶‰
+U
+java:S1117"?Rename "streamField" which hides the field declared at line 11.(υΒ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘ΛΨψÿÿÿÿ
+—
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤Ό›Ξ
+
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ψ΅ύ¥ϋÿÿÿÿ
+J
+java:S1068"/Remove this unused "streamerGUI" private field.(βΐ‘ύÿÿÿÿ
+G
+java:S1068",Remove this unused "okButton" private field.(Κ‚λωÿÿÿÿ
+K
+java:S1068	"0Remove this unused "cancelButton" private field.(½»΅οÿÿÿÿÿ
+I
+java:S1068
+".Remove this unused "titleLabel" private field.(γηΖωÿÿÿÿ
+J
+java:S1068"/Remove this unused "streamField" private field.(›§Ώδϊÿÿÿÿ

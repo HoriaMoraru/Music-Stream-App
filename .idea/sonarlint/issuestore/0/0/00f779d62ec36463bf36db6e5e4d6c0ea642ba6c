@@ -1,0 +1,5 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šæàºûÿÿÿÿ
+P	java:S8997";Do something with the "boolean" value returned by "delete".(ù¿¤·
+d
+java:S40427"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ù¿¤·

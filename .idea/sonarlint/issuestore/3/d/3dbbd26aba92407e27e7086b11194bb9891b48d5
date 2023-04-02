@@ -1,0 +1,14 @@
+
+u
+java:S1450"ZRemove the "clearButton" field and declare it as a local variable in the relevant methods.(úñ•“þÿÿÿÿ
+t
+java:S1450"YRemove the "listButton" field and declare it as a local variable in the relevant methods.(”­³îøÿÿÿÿ
+q
+java:S1450"[Remove the "logoutButton" field and declare it as a local variable in the relevant methods.(Û¾§Û
+y
+java:S1450"^Remove the "recommendButton" field and declare it as a local variable in the relevant methods.(¡íÐêùÿÿÿÿ
+s
+java:S1450"]Remove the "surpriseButton" field and declare it as a local variable in the relevant methods.(¦¹Óò
+<
+java:S1948
+"&Make "user" transient or serializable.(õ©¯†

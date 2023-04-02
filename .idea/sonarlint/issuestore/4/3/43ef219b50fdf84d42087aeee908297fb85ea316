@@ -1,0 +1,12 @@
+
+v
+java:S1450	"[Remove the "cancelButton" field and declare it as a local variable in the relevant methods.(½»¡ïÿÿÿÿÿ
+u
+java:S1450"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(¢ÏÃöıÿÿÿÿ
+t
+java:S1450
+"YRemove the "titleLabel" field and declare it as a local variable in the relevant methods.(ãçÆùÿÿÿÿ
+G
+java:S1602u",Remove useless curly braces around statement(âÂ…Üıÿÿÿÿ
+G
+java:S1602y",Remove useless curly braces around statement(ä¬ĞÀúÿÿÿÿ

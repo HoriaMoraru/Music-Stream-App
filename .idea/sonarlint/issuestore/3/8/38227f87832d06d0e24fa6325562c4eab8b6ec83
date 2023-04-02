@@ -1,0 +1,9 @@
+
+p
+java:S1450"URemove the "sGenre" field and declare it as a local variable in the relevant methods.(È€ƒøÿÿÿÿ
+?
+java:S2140v")Use "java.util.Random.nextInt()" instead.(óÅæá
+?
+java:S2140x")Use "java.util.Random.nextInt()" instead.(¹ÏôÑ
+E
+java:S1068"*Remove this unused "sGenre" private field.(È€ƒøÿÿÿÿ
